@@ -41,8 +41,9 @@ Termina el detalle.
 ### Agregar el kernel de Julia
 Abrir Julia y poner:
 
-`using Pkg
-Pkg.add("IJulia")`
+`using Pkg`
+
+`Pkg.add("IJulia")`
 
 ## Obtener los programas del curso
 Ingresa a la carpeta donde quieres que estén almacenados los archivos del curso desde la consola (Terminales en Linux y MacOs y CMD o PowerShell en Windows). Usa el comando `cd nombre-de-la-carpeta` para navegar hacia directorios y `cd ..` para salirte de ellos.
