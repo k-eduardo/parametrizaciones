@@ -30,6 +30,7 @@ Termina el detalle.
 `julia`
 
 En julia poner:
+
 `using Pkg`
 
 `Pkg.add("IJulia")`
