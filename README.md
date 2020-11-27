@@ -1,6 +1,11 @@
 # parametrizaciones
 Visualización en Julia para visualización de curvas y superficies.
 
+## Instalación de Git
+#### Windows y MacOs
+Instalar [GitHub Desktop](https://desktop.github.com)
+
+
 ## Instalación de Julia y JuPyteR
 Jupyter es un ambiente de programación bastante útil porque nos permite hacer muchas cosas simultáneamente:
 1. Escribir código.
@@ -26,15 +31,6 @@ Termina el detalle.
 #### Instalar Jupyter(lab):
 `pip install jupyterlab`
 
-#### Agregar el paquete de Julia para Jupyter
-`julia`
-
-En julia poner:
-
-`using Pkg`
-
-`Pkg.add("IJulia")`
-
 ### Para abrir Jupyter y empezarlo a usar:
 Cerrar la terminal y volverla a abrir. Escribir:
 
@@ -42,6 +38,4 @@ Cerrar la terminal y volverla a abrir. Escribir:
 
 ## Obtener los programas del curso
 Ingresa a la carpeta donde quieres que estén almacenados los archivos del curso desde la consola (Terminales en Linux y MacOs y CMD o PowerShell en Windows). Usa el comando `cd nombre-de-la-carpeta` para navegar hacia directorios y `cd ..` para salirte de ellos.
-
-
 
