@@ -28,8 +28,10 @@ Termina el detalle.
 
 #### Agregar el paquete de Julia para Jupyter
 `julia`
+
 En julia poner:
 `using Pkg`
+
 `Pkg.add("IJulia")`
 
 ### Para abrir Jupyter y empezarlo a usar:
