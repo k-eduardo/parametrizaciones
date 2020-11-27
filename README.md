@@ -2,6 +2,13 @@
 Visualización en Julia para visualización de curvas y superficies.
 
 ## Instalación de Git
+#### Linux
+En la terminal, escribir:
+
+`sudo apt install git-all` Ubuntu-s
+`sudo yum install git-all` Debian-s
+`sudo dnf install git-all` Fedora-s
+
 #### Windows y MacOs
 Instalar [GitHub Desktop](https://desktop.github.com)
 
@@ -31,11 +38,15 @@ Termina el detalle.
 #### Instalar Jupyter(lab):
 `pip install jupyterlab`
 
+## Obtener los programas del curso
+Ingresa a la carpeta donde quieres que estén almacenados los archivos del curso desde la consola (Terminales en Linux y MacOs y CMD o PowerShell en Windows). Usa el comando `cd nombre-de-la-carpeta` para navegar hacia directorios y `cd ..` para salirte de ellos.
+Escribe lo siguiente en la terminal:
+
+`git clone https://github.com/ocampo/parametrizaciones.git`
+
+Con esto tendrás todo listo.
+
 ### Para abrir Jupyter y empezarlo a usar:
 Cerrar la terminal y volverla a abrir. Escribir:
 
 `jupyter-lab`
-
-## Obtener los programas del curso
-Ingresa a la carpeta donde quieres que estén almacenados los archivos del curso desde la consola (Terminales en Linux y MacOs y CMD o PowerShell en Windows). Usa el comando `cd nombre-de-la-carpeta` para navegar hacia directorios y `cd ..` para salirte de ellos.
-
