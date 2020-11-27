@@ -37,4 +37,11 @@ En julia poner:
 
 ### Para abrir Jupyter y empezarlo a usar:
 Cerrar la terminal y volverla a abrir. Escribir:
+
 `jupyter-lab`
+
+## Obtener los programas del curso
+Ingresa a la carpeta donde quieres que estén almacenados los archivos del curso desde la consola (Terminales en Linux y MacOs y CMD o PowerShell en Windows). Usa el comando `cd nombre-de-la-carpeta` para navegar hacia directorios y `cd ..` para salirte de ellos.
+
+
+
