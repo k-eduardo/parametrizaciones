@@ -6,11 +6,11 @@ Visualización en Julia para visualización de curvas y superficies.
 1. Instalen Conda [liga aquí.](https://www.anaconda.com/products/individual#Downloads)
 1. Sigan las instrucciones de [este video.](https://www.youtube.com/watch?v=dycl0bntMwo) (Gracias Mario por la referencia.)
 1. Agregar el kernel de Julia
-Abrir Julia y poner:
-
-`using Pkg`
-
-`Pkg.add("IJulia")`
+    Abrir Julia y poner:
+    
+    `using Pkg`
+    
+    `Pkg.add("IJulia")`
 4. Clonar el proyecto (pueden no usar git para esto porque para algunos fue complicado).
 
 
