@@ -1,16 +1,16 @@
 # parametrizaciones
 Visualización en Julia para visualización de curvas y superficies.
 
-## Instalación de Git
-#### Linux
-En la terminal, escribir:
+## Windows
 
-`sudo apt install git-all` Ubuntu-s
-`sudo yum install git-all` Debian-s
-`sudo dnf install git-all` Fedora-s
+1. Instalen Conda [liga aquí.](https://www.anaconda.com/products/individual#Downloads)
+1. Sigan las instrucciones de [este video.](https://www.youtube.com/watch?v=dycl0bntMwo) (Gracias Mario por la referencia.)
+1. Agregar el kernel de Julia
+Abrir Julia y poner:
 
-#### Windows y MacOs
-Instalar [GitHub Desktop](https://desktop.github.com)
+`using Pkg`
+
+`Pkg.add("IJulia")`
 
 
 ## Instalación de Julia y JuPyteR
@@ -57,3 +57,16 @@ Con esto tendrás todo listo.
 Cerrar la terminal y volverla a abrir. Escribir:
 
 `jupyter-lab`
+
+
+
+## Opcional: Instalación de Git
+#### Linux
+En la terminal, escribir:
+
+`sudo apt install git-all` Ubuntu-s
+`sudo yum install git-all` Debian-s
+`sudo dnf install git-all` Fedora-s
+
+#### Windows y MacOs
+Instalar [GitHub Desktop](https://desktop.github.com)
