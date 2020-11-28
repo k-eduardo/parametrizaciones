@@ -12,7 +12,7 @@ Visualización en Julia para visualización de curvas y superficies.
     
     `Pkg.add("IJulia")`
 4. Clonar el proyecto (pueden no usar git para esto porque para algunos fue complicado).
-![Alt text](https://github.com/ocampo/parametrizaciones/blob/main/imagenes/1.png?raw=true "Clonar el proyecto."){width=60%}
+![Alt text](https://github.com/ocampo/parametrizaciones/blob/main/imagenes/1.png?raw=true "Clonar el proyecto."){:width=60%}
 
 ## Instalación de Julia y JuPyteR
 Jupyter es un ambiente de programación bastante útil porque nos permite hacer muchas cosas simultáneamente:
