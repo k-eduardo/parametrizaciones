@@ -11,7 +11,7 @@ Abrir Julia y poner:
 `using Pkg`
 
 `Pkg.add("IJulia")`
-1. Clonar el proyecto (pueden no usar git para esto porque para algunos fue complicado).
+4. Clonar el proyecto (pueden no usar git para esto porque para algunos fue complicado).
 
 
 ## Instalación de Julia y JuPyteR
