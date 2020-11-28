@@ -19,7 +19,7 @@ Visualización en Julia para visualización de curvas y superficies.
 ![Alt text](https://github.com/ocampo/parametrizaciones/blob/main/imagenes/3.png?raw=true "Clonar el proyecto.")
 1. Darle play.
 
-## Instalación de Julia y JuPyteR
+## Mac y Linux
 Jupyter es un ambiente de programación bastante útil porque nos permite hacer muchas cosas simultáneamente:
 1. Escribir código.
 1. Documentarlo.
@@ -30,10 +30,6 @@ Jupyter es un ambiente de programación bastante útil porque nos permite hacer 
 
 Revisen si tienen instalado python 3 en una versión superior a 3.4, si no lo tienen; [instálenlo](https://www.python.org/downloads/). A continuación el detalle de esta instrucción por si es requerido.
 
-#### En Windows
-1. Busquen powershell, ábranlo y pongan __python__. Si cambia la consola y aparerce la versión de python, sí lo tienen.
-1. Abran la Línea de Comandos. [Instrucciones para abrir la línea de comandos.](https://es.wikihow.com/abrir-la-l%C3%ADnea-de-comandos-en-Windows). Escriban __python__ y, de nuevo, si aparece la versión de python y cambia la consola un poco, ya la hicieron.
-Si no tienen instalado python, [instálenlo](https://www.python.org/downloads/).
 #### En Mac
 Abran el programa _Terminal_ y escriban __python__. Si aparece la versión y cambia la consola, adelante. (Es muuuy probable que esté instalado y bien configuradas las ligas simbólicas, de lo contrario, en la página de python pueden descargar de nuevo el intérprete.)
 #### En Linux
@@ -52,17 +48,7 @@ Abrir Julia y poner:
 `Pkg.add("IJulia")`
 
 ## Obtener los programas del curso
-Ingresa a la carpeta donde quieres que estén almacenados los archivos del curso desde la consola (Terminales en Linux y MacOs y CMD o PowerShell en Windows). Usa el comando `cd nombre-de-la-carpeta` para navegar hacia directorios y `cd ..` para salirte de ellos.
-Escribe lo siguiente en la terminal:
-
-`git clone https://github.com/ocampo/parametrizaciones.git`
-
-Con esto tendrás todo listo.
-
-### Para abrir Jupyter y empezarlo a usar:
-Cerrar la terminal y volverla a abrir. Escribir:
-
-`jupyter-lab`
+Chequen el clonado de la sección de Windows y el resto de las instrucciones.
 
 
 
